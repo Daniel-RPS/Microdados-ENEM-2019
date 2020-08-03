@@ -9,6 +9,8 @@ Parte 2 - Questões socioeconômicas e desempenho em matemática e redação em 
 
 Parte 3 - Análise da média de cada disciplina nos municípios brasileiros (como Rio de Janeiro, São Paulo, São José dos Campos, etc), além de aprender a salvar o dataframe em .csv
 
+Parte 4 - Comparando o desempenho dos candidatos em relação ao IDHM de cada município brasileiro.
+
 Fontes:
 
 Canal Programação Dinâmica - https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica/playlists
